@@ -32,7 +32,8 @@ public class Main2 {
         };
 
         list.sort((o1,o2)->o1.lname.compareTo(o2.lname));
-        System.out.println(list);
+     
+        System.out.printf("poutses");
 
 
     }
