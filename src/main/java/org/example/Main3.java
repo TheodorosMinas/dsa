@@ -5,5 +5,7 @@ public class Main3 {
         System.out.println("dsad");
 
         System.out.println("yolooo");
+        System.out.println("Main3.main");
+        
     }
 }
